@@ -3,6 +3,8 @@
 
 The preserved web predecessor to [Engage](https://github.com/nhancio/Engage). A job matching application inspired by dating app UI, connecting job seekers with employers through an intuitive swipe interface.
 
+Live legacy URL: https://engage-legacy-nhancio.netlify.app
+
 ## Features
 
 - 🔐 **LinkedIn OAuth Authentication** - Secure login with Supabase
