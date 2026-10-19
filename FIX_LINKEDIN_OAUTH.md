@@ -49,7 +49,7 @@ If you don't have LinkedIn credentials yet:
 2. **Create a New App**
    - Click "Create app"
    - Fill in:
-     - **App name**: Jobz (or your preferred name)
+     - **App name**: Engage-Legacy (or your preferred name)
      - **LinkedIn Page**: Select or create a page
      - **Privacy policy URL**: `https://your-domain.com/privacy` (can be placeholder)
    - Accept terms and create

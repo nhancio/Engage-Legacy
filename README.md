@@ -1,7 +1,7 @@
 
-# Jobz - Job Matching Application
+# Engage-Legacy — original web application
 
-A modern job matching application inspired by dating app UI, connecting job seekers with employers through an intuitive swipe interface.
+The preserved web predecessor to [Engage](https://github.com/nhancio/Engage). A job matching application inspired by dating app UI, connecting job seekers with employers through an intuitive swipe interface.
 
 ## Features
 

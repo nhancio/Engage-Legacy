@@ -1,4 +1,4 @@
-# How to Run and Deploy Jobz
+# How to Run and Deploy Engage-Legacy
 
 This guide will walk you through running the application locally and deploying it to production.
 
@@ -80,7 +80,7 @@ Netlify is already configured for this project!
 2. **Connect Your Repository**
    - Click "Add new site" → "Import an existing project"
    - Connect to GitHub/GitLab/Bitbucket
-   - Select your Jobz repository
+   - Select your Engage-Legacy repository
 
 3. **Configure Build Settings**
    - Build command: `npm run build` (already set in `netlify.toml`)

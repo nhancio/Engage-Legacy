@@ -52,7 +52,7 @@ export function Login() {
               <Linkedin className="w-8 h-8 text-blue-600" />
             </motion.div>
             <h1 className="text-3xl font-bold text-slate-900 mb-2">
-              Welcome to Jobz
+              Welcome to Engage-Legacy
             </h1>
             <p className="text-slate-600">
               Connect with opportunities that match your skills

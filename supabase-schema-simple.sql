@@ -1,5 +1,5 @@
 -- ============================================
--- Jobz Application - SIMPLIFIED Database Schema
+-- Engage-Legacy Application - SIMPLIFIED Database Schema
 -- ============================================
 -- Run this in Supabase SQL Editor
 -- Copy and paste the entire file, then click "Run"

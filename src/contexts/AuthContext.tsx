@@ -93,7 +93,7 @@ export function AuthProvider({ children }: { children: ReactNode }) {
     // This allows testing the app without LinkedIn OAuth setup
     const demoUser = {
       id: 'demo-user-' + Date.now(),
-      email: 'demo@jobz.app',
+      email: 'guest@engage-legacy.example',
       user_metadata: {
         full_name: 'Demo User',
         avatar_url: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&q=80',

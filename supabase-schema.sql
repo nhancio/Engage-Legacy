@@ -1,5 +1,5 @@
 -- ============================================
--- Jobz Application - Complete Database Schema
+-- Engage-Legacy Application - Complete Database Schema
 -- ============================================
 -- Run this entire script in your Supabase SQL Editor
 -- This creates all necessary tables, policies, and functions

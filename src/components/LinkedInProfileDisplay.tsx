@@ -25,7 +25,7 @@ export function LinkedInProfileDisplay() {
         // For demo users, show demo data
         setProfileData({
           fullName: user.user_metadata?.full_name || 'Demo User',
-          email: user.email || 'demo@jobz.app',
+          email: user.email || 'guest@engage-legacy.example',
           avatarUrl: user.user_metadata?.avatar_url,
         });
       }

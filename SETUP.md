@@ -1,6 +1,6 @@
 # Setup Guide
 
-This guide will help you set up the Jobz application with Firebase/Supabase database, Gemini voice-to-text API, and LinkedIn OAuth authentication.
+This guide will help you set up the Engage-Legacy application with Firebase/Supabase database, Gemini voice-to-text API, and LinkedIn OAuth authentication.
 
 ## Prerequisites
 

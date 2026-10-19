@@ -11,7 +11,7 @@ This guide will help you configure LinkedIn OAuth in Supabase to enable LinkedIn
 2. **Create a New App**
    - Click "Create app"
    - Fill in the required information:
-     - **App name**: Jobz (or your preferred name)
+     - **App name**: Engage-Legacy (or your preferred name)
      - **LinkedIn Page**: Select or create a LinkedIn page
      - **Privacy policy URL**: `https://your-domain.com/privacy` (can be a placeholder)
      - **App logo**: Upload a logo (optional)
